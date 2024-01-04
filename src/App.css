@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+.App :hover {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.display {
+  border: solid;
+  padding-right: 25px;
+  background-color: aliceblue;
+}
+
+h2 {
+  text-decoration: underline;
+}
